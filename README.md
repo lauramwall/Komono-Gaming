@@ -19,6 +19,6 @@ This is the official website for esports gaming team 'Komono Gaming'. This team 
 
 # Credits
 
-N/A
+Thanks to <a href="https://www.screely.com/">Screely</a>, a beta application that generates design mockups.
 
 
