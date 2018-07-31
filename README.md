@@ -15,7 +15,7 @@ This is the official website for esports gaming team 'Komono Gaming'. This team 
 
 # Screencap
 
-N/A
+<img src="screencap.png">
 
 # Credits
 
